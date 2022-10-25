@@ -1,0 +1,3 @@
+modbusTcp.c:47:13:floatToByte	24	static
+modbusTcp.c:57:16:getFloatBytes	16	static
+modbusTcp.c:94:10:parseModbusCommand	56	static

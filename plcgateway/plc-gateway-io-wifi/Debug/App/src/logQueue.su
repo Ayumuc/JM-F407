@@ -1,0 +1,12 @@
+logQueue.c:58:6:initLogQueue	8	static
+logQueue.c:83:13:getLogKey	136	static
+logQueue.c:125:6:intoLogQueue	384	static
+logQueue.c:176:6:LogPrint	280	static
+logQueue.c:203:12:sendToTcp	32	static
+logQueue.c:225:5:sendToTcpServer	32	static
+logQueue.c:270:5:outLogQueue	384	static
+logQueue.c:327:5:outErrLogQueue	384	static
+logQueue.c:389:12:logClientDataHandler	24	static
+logQueue.c:420:12:logClientRecvHandler	24	static
+logQueue.c:453:13:logClientInit	112	static
+logQueue.c:563:6:logUploadTask	16	static
